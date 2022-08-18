@@ -1,6 +1,6 @@
-# Foobar
+# What's the package about ?
 
-Foobar is a Python library for dealing with word pluralization.
+Degree to Compass Direction Conversion Utility Function
 
 ## Installation
 
@@ -18,6 +18,6 @@ const converter = require('degrees-to-compass');
 # returns 'DIRECTION ON COMPASS'
 converter.convert('90') // "→ E"
 
-# returns 'geese'
+# returns 'DIRECTION OF COMPASS'
 converter.convert('250') // "← W"
 ```
