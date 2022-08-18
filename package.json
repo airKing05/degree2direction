@@ -1,0 +1,17 @@
+{
+  "name": "degree-2-direction",
+  "version": "1.0.0",
+  "description": "it converts wind degree to direction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "climate",
+    "wind",
+    "direction"
+  ],
+  "author": "airKing05",
+  "license": "ISC"
+}
