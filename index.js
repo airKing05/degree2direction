@@ -1,4 +1,4 @@
-exports.degreeToDirection = (angle) => {
+exports.convert = (angle) => {
     const directionsMapping = ['↑ N', '↗ NE', '→ E', '↘ SE', '↓ S', '↙ SW', '← W', '↖ NW'];
     const degreeKeyToMap = Math.round(angle / 45) % 8;
     return directionsMapping[degreeKeyToMap];
